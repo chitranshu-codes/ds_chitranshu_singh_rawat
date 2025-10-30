@@ -165,7 +165,3 @@ Market turning points are clearly signaled by a **decoupling** of market sentime
 
 ✅ **Outcome:**
 These behavioral-sentiment correlations provide actionable insights for developing **hybrid quantitative trading strategies** that blend contrarian and momentum principles.
-
----
-
-Would you like me to format it for direct inclusion in a **GitHub README.md** (with headers, emojis, and section dividers styled for better visual appeal)?
